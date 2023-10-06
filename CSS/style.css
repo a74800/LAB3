@@ -1,0 +1,63 @@
+html {
+	scroll-behavior: smooth;
+}
+
+
+.carousel-item{
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    image-responsise;
+}
+
+#carousel_principal {
+    max-height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: midnightblue;
+}
+
+.card-header {
+    background-color: blueviolet;
+}
+
+.navbar  a {
+    color: white;
+}
+
+.footer {
+    background-color: midnightblue;
+}
+
+.container h5 {
+    color: white;
+}
+
+.autorNome {
+    color: azure;
+    font-style: italic;
+}
+
+.card {
+    border: 0px;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: azure;
+}
+
+.navbar-brand:hover {
+    background-color: rgb(113, 146, 218);
+    border-radius: 3px;
+}
+
+.welc {
+    color: white;
+    font-style: italic;
+}
+
+
+
