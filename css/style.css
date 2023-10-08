@@ -64,7 +64,10 @@ html {
     color: white;
 }
 
-
+.options {
+    color: blueviolet;
+    font-size: 17px;
+}
 
 
 /********Template Login******/
